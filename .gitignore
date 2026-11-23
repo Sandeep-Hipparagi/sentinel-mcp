@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.coverage
+
+# Local audit workspaces (never committed)
+audit/
+workspace_audit/
+
+# Environment / editor
+.env
+.vscode/
+.idea/
+.DS_Store
+
+.pytest_tmp/

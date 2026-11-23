@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "sentinel-mcp": {
+      "command": "sentinel-mcp",
+      "args": ["serve", "--transport", "stdio"],
+      "env": {}
+    }
+  }
+}
