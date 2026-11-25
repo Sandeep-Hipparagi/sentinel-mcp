@@ -1,9 +1,9 @@
 {
   "$schema": "https://cdn.jsdelivr.net/npm/@modelcontextprotocol/schema@latest/registry.schema.json",
-  "name": "com.sandeephipparagi/sentinel-mcp",
-  "display_name": "Sentinel MCP",
-  "description": "Registry-ready MCP server: deterministic claim verification, declarative policy gate, Merkle-chained WORM audit ledger, and graph memory with SQLite fallback.",
-  "version": "0.1.0",
+  "name": "io.github.Sandeep-Hipparagi/sentinel-mcp",
+  "title": "Sentinel MCP",
+  "description": "Deterministic claim verification, fail-closed policy gate, WORM audit ledger, and graph memory.",
+  "version": "0.1.1",
   "publisher": {
     "name": "Sandeep Hipparagi",
     "url": "https://bluepatterns.ai/"
@@ -14,9 +14,9 @@
   },
   "packages": [
     {
-      "registry_type": "pypi",
+      "registryType": "pypi",
       "identifier": "sentinel-mcp-guard",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "transport": {
         "type": "stdio",
         "command": "sentinel-mcp",

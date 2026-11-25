@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "sentinel-mcp-guard"
-version = "0.1.0"
+version = "0.1.1"
 description = "Registry-ready MCP server: deterministic claim verification, declarative policy gate, Merkle-chained WORM audit ledger, and graph memory with SQLite fallback"
 readme = "README.md"
 license = { text = "MIT" }

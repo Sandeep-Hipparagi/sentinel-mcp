@@ -1,5 +1,7 @@
 ﻿# sentinel-mcp
 
+mcp-name: io.github.Sandeep-Hipparagi/sentinel-mcp
+
 **Registry-ready MCP server for governed agents: deterministic claim verification, a fail-closed policy gate, a Merkle-chained WORM audit ledger, and graph memory that degrades gracefully — installable with one command.**
 
 [![CI](https://github.com/Sandeep-Hipparagi/sentinel-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Sandeep-Hipparagi/sentinel-mcp/actions/workflows/ci.yml)
