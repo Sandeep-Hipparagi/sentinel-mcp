@@ -1,5 +1,5 @@
 {
-  "$schema": "https://cdn.jsdelivr.net/npm/@modelcontextprotocol/schema@latest/registry.schema.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.Sandeep-Hipparagi/sentinel-mcp",
   "title": "Sentinel MCP",
   "description": "Deterministic claim verification, fail-closed policy gate, WORM audit ledger, and graph memory.",
