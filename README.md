@@ -34,7 +34,7 @@ Reproduce: `pip install -e ".[dev]" && pytest && sentinel-mcp conformance`.
 ## Quickstart (3 commands)
 
 ```bash
-pip install -e ".[dev]"          # or: pip install sentinel-mcp
+pip install -e ".[dev]"          # or: pip install sentinel-mcp-guard
 sentinel-mcp conformance          # self-test: 12 checks incl. tamper + latency
 sentinel-mcp serve                # stdio MCP server
 ```
