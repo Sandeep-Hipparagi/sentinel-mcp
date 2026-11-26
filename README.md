@@ -9,6 +9,14 @@ mcp-name: io.github.Sandeep-Hipparagi/sentinel-mcp
 [![MCP](https://img.shields.io/badge/MCP-1.x%20%7C%202.x-8A2BE2.svg)](https://modelcontextprotocol.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+## Product Walkthrough & Architecture Demo
+
+https://github.com/Sandeep-Hipparagi/sentinel-mcp/releases/download/media-v1/brag.mp4
+
+[![sentinel-mcp demo](assets/media/preview.webp)](https://github.com/Sandeep-Hipparagi/sentinel-mcp/releases/tag/media-v1)
+
+---
+
 ## Architecture
 
 ```mermaid
